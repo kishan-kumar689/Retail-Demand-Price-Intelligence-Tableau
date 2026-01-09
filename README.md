@@ -89,6 +89,9 @@ Interactive filters
 
 Executive dashboard design
 
+## 🔗 Live Tableau Dashboard
+Click to explore the interactive dashboard:  
+👉 https://public.tableau.com/views/RetailDemandPriceIntelligence/ExecutiveOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 📬 Contact
 
 If you’re interested in retail analytics, pricing strategy, or supply-chain intelligence, feel free to connect!
